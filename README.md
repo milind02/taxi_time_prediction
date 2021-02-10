@@ -11,6 +11,6 @@ The taxi-time is the time an airplane spends “driving” on the ground: \
 Currently almost every airport around the world is using a moving average approach to predict TOT: the airport assumes that the taxi-out time for a given day will be equal to the average of taxi-outs during the past two months.
 
 ## Key Benefits
-• Know more accurately when an aircraft will be airborne. \
+• Know more accurately when an aircraft will be airborne for improved airport-airspace coordination \
 • Reduce GHG emissions resulting from airplanes’ idle time at the runway entrance. \
 • Optimize ground movement and airport flow.
