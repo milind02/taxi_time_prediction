@@ -1,5 +1,13 @@
 # Predicting Taxi Out time
 
+## Usage
+
+After cloning the repository, simply run main.py.
+
+```
+python main.py
+```
+
 ## Use Case
 Provide an accurate Actual Take-Off Time (ATOT) prediction based on an Actual Off-Block Time (AOBT) and an algorithm-based taxi-out time prediction considering factors such as airport configuration, AC type, weather, etc.
 
@@ -15,10 +23,4 @@ Currently almost every airport around the world is using a moving average approa
 • Reduce GHG emissions resulting from airplanes’ idle time at the runway entrance. \
 • Optimize ground movement and airport flow.
 
-## Usage
 
-After cloning the repository, simply run main.py.
-
-```
-python main.py
-```
