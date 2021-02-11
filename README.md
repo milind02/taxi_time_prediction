@@ -14,3 +14,11 @@ Currently almost every airport around the world is using a moving average approa
 • Know more accurately when an aircraft will be airborne for improved airport-airspace coordination \
 • Reduce GHG emissions resulting from airplanes’ idle time at the runway entrance. \
 • Optimize ground movement and airport flow.
+
+## Usage
+
+After cloning the repository, simply run main.py.
+
+```
+python main.py
+```
